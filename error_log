@@ -1,0 +1,30 @@
+[27-May-2021 03:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/smilefoo/public_html/pmb/koneksi.php:2
+Stack trace:
+#0 /home/smilefoo/public_html/pmb/getangkatan.php(2): include()
+#1 {main}
+  thrown in /home/smilefoo/public_html/pmb/koneksi.php on line 2
+[27-May-2021 03:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/smilefoo/public_html/pmb/koneksi.php:2
+Stack trace:
+#0 /home/smilefoo/public_html/pmb/getsks.php(2): include()
+#1 {main}
+  thrown in /home/smilefoo/public_html/pmb/koneksi.php on line 2
+[27-May-2021 03:36:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/smilefoo/public_html/pmb/koneksi.php:2
+Stack trace:
+#0 /home/smilefoo/public_html/pmb/getangkatan.php(2): include()
+#1 {main}
+  thrown in /home/smilefoo/public_html/pmb/koneksi.php on line 2
+[27-May-2021 03:36:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/smilefoo/public_html/pmb/koneksi.php:2
+Stack trace:
+#0 /home/smilefoo/public_html/pmb/getsks.php(2): include()
+#1 {main}
+  thrown in /home/smilefoo/public_html/pmb/koneksi.php on line 2
+[27-May-2021 03:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/smilefoo/public_html/pmb/koneksi.php:2
+Stack trace:
+#0 /home/smilefoo/public_html/pmb/getsubkategori.php(2): include()
+#1 {main}
+  thrown in /home/smilefoo/public_html/pmb/koneksi.php on line 2
+[27-May-2021 03:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/smilefoo/public_html/pmb/koneksi.php:2
+Stack trace:
+#0 /home/smilefoo/public_html/pmb/pengumuman.php(8): include()
+#1 {main}
+  thrown in /home/smilefoo/public_html/pmb/koneksi.php on line 2

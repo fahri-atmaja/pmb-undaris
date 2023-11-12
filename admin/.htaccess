@@ -1,0 +1,5 @@
+DirectoryIndex index.php
+
+ReWriteEngine On
+ReWriteCond %{HTTPS} off
+ReWriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
